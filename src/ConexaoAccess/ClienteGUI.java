@@ -19,7 +19,7 @@ import javax.swing.JOptionPane;
  *
  * @author rapha
  */
-public class ClienteGUI extends BancoAccess {
+public class ClienteGUI extends javax.swing.JFrame {
 
     /**
      * Creates new form ClienteGUI
